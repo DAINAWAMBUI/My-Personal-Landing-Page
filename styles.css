@@ -1,0 +1,36 @@
+body{
+    background-color: aqua
+}
+
+
+h1{
+    font-size:x-large;
+    text-align: left;
+}
+
+
+h2{
+    color: black;
+    font-family:blueviolet;
+    font-size: x-large;
+    width:300%;
+    text-align:left
+}
+
+a{
+    color:black
+}
+
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:large;
+    color:black
+}
+
+img{
+    width: 50px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 15px;
+    object-fit: cover;
+}
